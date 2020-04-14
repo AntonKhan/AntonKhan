@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 
-namespace Змейка
+namespace Snake2
 {
     class Program
     {
